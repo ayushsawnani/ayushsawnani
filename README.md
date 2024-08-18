@@ -9,7 +9,7 @@ Pursuing a Bachelor's degree in Computer Science with a focus on software develo
 - 💻 Technical Skills:
 Proficient in multiple programming languages including Java, Python, C/C++, C#, and Dart/Flutter. Experienced in web development using HTML/CSS, JavaScript/TypeScript, and React.js.
 - 🔊 Audio Technology Interests:
-Passionate about audio-based industries, particularly in the fields of Digital Signal Processing (DSP) and machine learning. I've worked on projects that merge deep learning techniques with audio processing, such as a music genre classifier using TensorFlow.
+Passionate about audio-based industries, particularly in the fields of Digital Signal Processing (DSP) and machine learning. I've worked on projects that merge deep learning techniques with audio processing, such as a **🎵 Music Genre Classifier:** [Explore the Project](https://github.com/ayushsawnani/music-genre-classifier) using TensorFlow.
 - 🌟 Soft Skills:
 Strong leadership, communication, and teamwork abilities developed through various academic and extracurricular activities. I enjoy working collaboratively on projects that challenge my problem-solving skills.
 - 🔧 Experience:
