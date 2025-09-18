@@ -1,6 +1,6 @@
 ## Ayush Sawnani
 
-Welcome to my GitHub! I'm Ayush, a motivated Computer Science student at Rutgers University.
+Welcome to my GitHub! I'm Ayush, a Computer Science student at Rutgers University.
 
 ### About Me
 - Pursuing a Bachelor's degree in Computer Science with a focus on software development and algorithms. Minoring in Music Technology and Mathematics.
