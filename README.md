@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm Ayush, a Computer Science student at Rutgers Universit
 ### About Me
 - Pursuing a Bachelor's degree in Computer Science with a focus on software development and algorithms. Minoring in Music Technology and Mathematics.
 - Proficient in multiple programming languages including Java, Python, C/C++, C#, and Dart/Flutter. Experienced in web development using HTML/CSS, JavaScript/TypeScript, and React.js.
-- Soft Skills: Strong leadership, communication, and teamwork abilities. I enjoy working collaboratively on projects that challenge my problem-solving skills.
 
 <!--
 **ayushsawnani/ayushsawnani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
